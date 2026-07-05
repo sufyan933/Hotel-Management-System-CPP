@@ -112,6 +112,15 @@ The hotel contains a total of **45 rooms**.
 | Suite Room | PKR 8,000 |
 
 ---
+# 📊 System Flowchart
+
+The following flowchart illustrates the complete workflow of the Hotel Management System, including room initialization, booking operations, availability checking, check-out processing, and record management.
+
+<p align="center">
+  <img src="system-flowchart.png" alt="Hotel Management System Flowchart" width="85%">
+</p>
+
+The system begins by initializing all hotel rooms and then presents a menu-driven interface to the user. Based on the selected option, the system performs room availability checks, room booking, guest check-out with bill calculation, or displays booked room records. The process continues until the user chooses to exit the application.
 
 # ⚙️ System Features
 
