@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏨 HOTEL MANAGEMENT SYSTEM
+## 🏨 HOTEL MANAGEMENT SYSTEM
 
-### Efficient Room Booking & Hotel Management Solution in C++
+## Efficient Room Booking & Hotel Management Solution in C++
 
 <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/Project-Hotel%20Management-green?style=for-the-badge">
