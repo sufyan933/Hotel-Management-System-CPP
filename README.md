@@ -55,7 +55,7 @@ The program uses arrays and functions to organize room data and customer informa
 
 ## Room Availability
 
-<p align="center">
+<p >
   <img src="availability.png"
        alt="Room Availability"
        width="500"
