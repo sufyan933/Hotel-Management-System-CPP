@@ -49,7 +49,7 @@ The program uses arrays and functions to organize room data and customer informa
 
 ## Main Menu
 
-![Main Menu](menu.png)
+![Main Menu](menu.jpg)
 
 ---
 
@@ -61,19 +61,19 @@ The program uses arrays and functions to organize room data and customer informa
 
 ## Room Booking
 
-![Room Booking](booking.png)
+![Room Booking](booking.jpg)
 
 ---
 
 ## Check-Out & Billing
 
-![Check-Out](checkout.png)
+![Check-Out](checkout.jpg)
 
 ---
 
 ## Booked Rooms List
 
-![Booked Rooms](booked-rooms.png)
+![Booked Rooms](booked-rooms.jpg)
 
 ---
 
@@ -117,7 +117,7 @@ The hotel contains a total of **45 rooms**.
 The following flowchart illustrates the complete workflow of the Hotel Management System, including room initialization, booking operations, availability checking, check-out processing, and record management.
 
 <p align="center">
-  <img src="system-flowchart.png" alt="Hotel Management System Flowchart" width="85%">
+  <img src="system-flowchart.jpg" alt="Hotel Management System Flowchart" width="85%">
 </p>
 
 The system begins by initializing all hotel rooms and then presents a menu-driven interface to the user. Based on the selected option, the system performs room availability checks, room booking, guest check-out with bill calculation, or displays booked room records. The process continues until the user chooses to exit the application.
